@@ -39,7 +39,7 @@ A C compiler (like GCC via MinGW-w64) must be installed and correctly configured
 git clone [https://github.com/joaogabrielfms/Employee-Management-Project-UFC.git](https://github.com/joaogabrielfms/Employee-Management-Project-UFC.git)
 
 # 2. Navigate to the project folder
-cd YOUR-REPOSITORY-NAME
+cd Employee-Management-Project-UFC
 
 # 3. Compile all source files (.c) together
 # This command creates an executable named "programa.exe"
