@@ -1,4 +1,4 @@
-# Employee-Management-Project-UFC
+# Employee Management Project at UFC
 Academic project in C language for managing employees, positions and departments with data persistence in files.
 
 ## Employee Management System in C
